@@ -1,0 +1,7 @@
+﻿  OpenGL_Sprite.cpp
+e:\maynooth\2d_game\2d_game\sprite.h(96): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+e:\maynooth\2d_game\2d_game\sprite.h(112): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\maynooth\2d_game\2d_game\sprite.h(113): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\maynooth\2d_game\2d_game\sprite.h(179): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\maynooth\2d_game\2d_game\sprite.h(180): warning C4305: 'initializing': truncation from 'double' to 'float'
+  2d_game.vcxproj -> E:\Maynooth\2d_game\Debug\2d_game.exe
